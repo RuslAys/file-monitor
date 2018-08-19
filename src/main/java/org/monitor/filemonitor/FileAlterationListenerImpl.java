@@ -17,7 +17,7 @@ public class FileAlterationListenerImpl implements FileAlterationListener {
 
     @Override
     public void onStart(FileAlterationObserver fileAlterationObserver) {
-        System.out.println("Waiting...");
+        System.out.println("Monitoring...");
     }
 
     @Override
